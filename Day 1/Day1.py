@@ -1,10 +1,10 @@
 print (" Hello world ")
 
-# Wohooooo!!! congtatulation for completinng your first  program :)
+# Wohooooo!!! congratulation on completing your first  program :)
 
 
-#  In pythonn 'print' is a function and whatever you write in th syntax 
-#   this will print in the terminnal or in code runner 
+#  In Python 'print' is a function and whatever you write in the syntax 
+#   This will print in the terminal or in the code runner 
 
 
 '''
@@ -13,7 +13,7 @@ A module in Python is simply a file containing Python code (usually functions, c
 that you can reuse in other Python programs. Modules help organize code and keep it modular, making it easier to manage and understand.
 
 Types of Modules:
-Built-in Modules:       These are modules that come pre-installed with Python, such as math, datetime, os, etc.
+Built-in Modules:       These are modules that come pre-installed with Python, such as math, date time, os, etc.
 User-Defined Modules:   You can create your own modules by saving Python code in a file with a .py extension.
  
 For example, if you save code in a file named my_module.py, you can import it in other Python files using:
