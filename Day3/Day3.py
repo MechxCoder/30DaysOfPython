@@ -1,4 +1,4 @@
-# solving and practicing :-
+# Solving and practicing Questions on Variables, Datatypes, and input from the user:-
 
 ''' 1. Variables Practice
 Define two variables, a and b, and assign them values 5 and 10. 
