@@ -2,7 +2,7 @@
 
 
 # Grade Assigner: Write a program that takes a score between 0 and 100 as input and prints the corresponding grade based on the following conditions:
-# 90 and above: Grade A
+# 90 and above Grade A
 # 80-89: Grade B
 # 70-79: Grade C
 # 60-69: Grade D
@@ -63,7 +63,7 @@ else:
 # str.count("am")
 text = "hey i am learning a python language"
 
-if "python" in text.lower():
+if "python" is in the text.lower():
     print("Found")
 else:
     print("Not Found")
