@@ -5,24 +5,24 @@
 # 3)dictionary
 # 4)set
 
-# Lists is an  collection which is ordered and changeable(modifiable). Allows duplicate members.
+# List is a  collection that is ordered and changeable(modifiable). Allows duplicate members.
 # In Python we can create lists in two ways:
 
 # Using list built-in function
 # syntax
 lst = list()
-empty_list = list() # this is an empty list, no item in the list
+empty_list = list() # This is an empty list, no item in the list
 print(len(empty_list)) # 0
 
 # Using square brackets, []
 # syntax
 lst = []
-empty_list = [] # this is an empty list, no item in the list
+empty_list = [] # This is an empty list, no item in the list
 print(len(empty_list)) # 0
 
-# In lists we store various types of elements like innteger, float, strings, Ex:
+# In lists we store various types of elements like integers, float, strings, and:
 marks =[84, 57, 66, 53, 69]
-student=[55,"rutik",66,"barde"]   # in lists we can make chages in lists or change the value in lists 
+student=[55, "rutik",66, "barde"]   # in lists we can make changes in lists or change the value in lists 
 
 student[1]="Rutikkkkkkk"  # here we modified rutik=Rutikkkkkkk
 print(student)
